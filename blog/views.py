@@ -7,3 +7,4 @@ class PostsListView(ListView):
 
 class PostDetailView(DetailView):
     model = Post
+
